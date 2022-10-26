@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vin0sen&#39;s Site navigation</title>
+    <link>https://vin0sen.github.io/</link>
+    <description>Recent content on Vin0sen&#39;s Site navigation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 20 Oct 2022 15:31:44 +0800</lastBuildDate><atom:link href="https://vin0sen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://vin0sen.github.io/blog/about/</link>
+      <pubDate>Thu, 20 Oct 2022 15:31:44 +0800</pubDate>
+      
+      <guid>https://vin0sen.github.io/blog/about/</guid>
+      <description>项目简介 本项目是基于纯静态的网址导航网站 webstack.cc 制作的 Hugo 主题，其中部分代码参考了以下几个开源项目： https://github.com/liutongxu/liutongxu.github.io https://github.com/iplaycode/webstack-hugo 主题开源地址 : https://github.com/shenweiyan/webstack-hugo 主题演示地址 https://nav.bioitee.com https://shenweiyan.github.io/webstack-hugo 文件记录 # 在</description>
+    </item>
+    
+  </channel>
+</rss>
